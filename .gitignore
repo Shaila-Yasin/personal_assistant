@@ -1,0 +1,8 @@
+.env
+__pycache__/
+*.pyc
+logs/
+data/conversations/*.json
+data/settings.json
+.venv/
+venv/
