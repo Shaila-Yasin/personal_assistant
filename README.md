@@ -1,4 +1,4 @@
-# 🤖 Personal AI Assistant
+# Personal AI Assistant
 
 A production-inspired, CLI-based AI assistant built with Python and the Groq API.
 This is **Phase 1** of a larger roadmap that will eventually add RAG, memory,
@@ -36,7 +36,7 @@ personal-ai-assistant/
 ## Setup
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Shaila-Yasin/personal_assistant
 cd personal-ai-assistant
 python -m venv venv
 source venv/bin/activate   # Windows: venv\Scripts\activate
@@ -60,3 +60,9 @@ python app.py
 ## Tech Stack
 
 Python 3.12 · Groq API · python-dotenv · JSON
+
+## Author 
+*Shaila Yasin*
+
+## GitHub
+https://github.com/Shaila-Yasin
